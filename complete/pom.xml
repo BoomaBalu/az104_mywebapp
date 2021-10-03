@@ -8,7 +8,7 @@
 		<version>2.5.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>mindtree.az104.com</groupId>
+	<groupId>com.example</groupId>
 	<artifactId>booma</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>booma</name>
